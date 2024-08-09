@@ -1,7 +1,9 @@
 ## Introduction
 
 This is a simple react boilerplate code to be used to start your own react app.
+
 The project here was started from scratch with information from the links below. It avoids complex and outdated alternatives like create-react-app .
+
 To ease the development experience helpers like linters and code formatters are automatically executed for every git commit via git pre-commit hooks.
 Code will be enhanced from time to time to support more features (e.g. testing, favicons, improving configs...)
 
